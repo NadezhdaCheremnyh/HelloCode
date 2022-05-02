@@ -1,0 +1,15 @@
+C:\Users\Sony\Documents\Projects\repo\Examples\Ex016\bin\Debug\net6.0\Ex016.exe
+C:\Users\Sony\Documents\Projects\repo\Examples\Ex016\bin\Debug\net6.0\Ex016.deps.json
+C:\Users\Sony\Documents\Projects\repo\Examples\Ex016\bin\Debug\net6.0\Ex016.runtimeconfig.json
+C:\Users\Sony\Documents\Projects\repo\Examples\Ex016\bin\Debug\net6.0\Ex016.dll
+C:\Users\Sony\Documents\Projects\repo\Examples\Ex016\bin\Debug\net6.0\Ex016.pdb
+C:\Users\Sony\Documents\Projects\repo\Examples\Ex016\obj\Debug\net6.0\Ex016.csproj.AssemblyReference.cache
+C:\Users\Sony\Documents\Projects\repo\Examples\Ex016\obj\Debug\net6.0\Ex016.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sony\Documents\Projects\repo\Examples\Ex016\obj\Debug\net6.0\Ex016.AssemblyInfoInputs.cache
+C:\Users\Sony\Documents\Projects\repo\Examples\Ex016\obj\Debug\net6.0\Ex016.AssemblyInfo.cs
+C:\Users\Sony\Documents\Projects\repo\Examples\Ex016\obj\Debug\net6.0\Ex016.csproj.CoreCompileInputs.cache
+C:\Users\Sony\Documents\Projects\repo\Examples\Ex016\obj\Debug\net6.0\Ex016.dll
+C:\Users\Sony\Documents\Projects\repo\Examples\Ex016\obj\Debug\net6.0\refint\Ex016.dll
+C:\Users\Sony\Documents\Projects\repo\Examples\Ex016\obj\Debug\net6.0\Ex016.pdb
+C:\Users\Sony\Documents\Projects\repo\Examples\Ex016\obj\Debug\net6.0\Ex016.genruntimeconfig.cache
+C:\Users\Sony\Documents\Projects\repo\Examples\Ex016\obj\Debug\net6.0\ref\Ex016.dll
