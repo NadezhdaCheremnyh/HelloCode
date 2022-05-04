@@ -1,0 +1,15 @@
+C:\Users\Sony\Documents\Projects\repo\Examples\Ex019\bin\Debug\net6.0\Ex019.exe
+C:\Users\Sony\Documents\Projects\repo\Examples\Ex019\bin\Debug\net6.0\Ex019.deps.json
+C:\Users\Sony\Documents\Projects\repo\Examples\Ex019\bin\Debug\net6.0\Ex019.runtimeconfig.json
+C:\Users\Sony\Documents\Projects\repo\Examples\Ex019\bin\Debug\net6.0\Ex019.dll
+C:\Users\Sony\Documents\Projects\repo\Examples\Ex019\bin\Debug\net6.0\Ex019.pdb
+C:\Users\Sony\Documents\Projects\repo\Examples\Ex019\obj\Debug\net6.0\Ex019.csproj.AssemblyReference.cache
+C:\Users\Sony\Documents\Projects\repo\Examples\Ex019\obj\Debug\net6.0\Ex019.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sony\Documents\Projects\repo\Examples\Ex019\obj\Debug\net6.0\Ex019.AssemblyInfoInputs.cache
+C:\Users\Sony\Documents\Projects\repo\Examples\Ex019\obj\Debug\net6.0\Ex019.AssemblyInfo.cs
+C:\Users\Sony\Documents\Projects\repo\Examples\Ex019\obj\Debug\net6.0\Ex019.csproj.CoreCompileInputs.cache
+C:\Users\Sony\Documents\Projects\repo\Examples\Ex019\obj\Debug\net6.0\Ex019.dll
+C:\Users\Sony\Documents\Projects\repo\Examples\Ex019\obj\Debug\net6.0\refint\Ex019.dll
+C:\Users\Sony\Documents\Projects\repo\Examples\Ex019\obj\Debug\net6.0\Ex019.pdb
+C:\Users\Sony\Documents\Projects\repo\Examples\Ex019\obj\Debug\net6.0\Ex019.genruntimeconfig.cache
+C:\Users\Sony\Documents\Projects\repo\Examples\Ex019\obj\Debug\net6.0\ref\Ex019.dll
