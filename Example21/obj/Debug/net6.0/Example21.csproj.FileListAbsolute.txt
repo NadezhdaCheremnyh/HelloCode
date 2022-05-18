@@ -1,0 +1,15 @@
+C:\Users\Sony\Documents\Projects\repo\Examples\Example21\obj\Debug\net6.0\Example21.csproj.AssemblyReference.cache
+C:\Users\Sony\Documents\Projects\repo\Examples\Example21\obj\Debug\net6.0\Example21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sony\Documents\Projects\repo\Examples\Example21\obj\Debug\net6.0\Example21.AssemblyInfoInputs.cache
+C:\Users\Sony\Documents\Projects\repo\Examples\Example21\obj\Debug\net6.0\Example21.AssemblyInfo.cs
+C:\Users\Sony\Documents\Projects\repo\Examples\Example21\obj\Debug\net6.0\Example21.csproj.CoreCompileInputs.cache
+C:\Users\Sony\Documents\Projects\repo\Examples\Example21\bin\Debug\net6.0\Example21.exe
+C:\Users\Sony\Documents\Projects\repo\Examples\Example21\bin\Debug\net6.0\Example21.deps.json
+C:\Users\Sony\Documents\Projects\repo\Examples\Example21\bin\Debug\net6.0\Example21.runtimeconfig.json
+C:\Users\Sony\Documents\Projects\repo\Examples\Example21\bin\Debug\net6.0\Example21.dll
+C:\Users\Sony\Documents\Projects\repo\Examples\Example21\bin\Debug\net6.0\Example21.pdb
+C:\Users\Sony\Documents\Projects\repo\Examples\Example21\obj\Debug\net6.0\Example21.dll
+C:\Users\Sony\Documents\Projects\repo\Examples\Example21\obj\Debug\net6.0\refint\Example21.dll
+C:\Users\Sony\Documents\Projects\repo\Examples\Example21\obj\Debug\net6.0\Example21.pdb
+C:\Users\Sony\Documents\Projects\repo\Examples\Example21\obj\Debug\net6.0\Example21.genruntimeconfig.cache
+C:\Users\Sony\Documents\Projects\repo\Examples\Example21\obj\Debug\net6.0\ref\Example21.dll
