@@ -1,0 +1,15 @@
+C:\Users\Sony\Documents\Projects\repo\Examples\Example22\obj\Debug\net6.0\Example22.csproj.AssemblyReference.cache
+C:\Users\Sony\Documents\Projects\repo\Examples\Example22\obj\Debug\net6.0\Example22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sony\Documents\Projects\repo\Examples\Example22\obj\Debug\net6.0\Example22.AssemblyInfoInputs.cache
+C:\Users\Sony\Documents\Projects\repo\Examples\Example22\obj\Debug\net6.0\Example22.AssemblyInfo.cs
+C:\Users\Sony\Documents\Projects\repo\Examples\Example22\obj\Debug\net6.0\Example22.csproj.CoreCompileInputs.cache
+C:\Users\Sony\Documents\Projects\repo\Examples\Example22\bin\Debug\net6.0\Example22.exe
+C:\Users\Sony\Documents\Projects\repo\Examples\Example22\bin\Debug\net6.0\Example22.deps.json
+C:\Users\Sony\Documents\Projects\repo\Examples\Example22\bin\Debug\net6.0\Example22.runtimeconfig.json
+C:\Users\Sony\Documents\Projects\repo\Examples\Example22\bin\Debug\net6.0\Example22.dll
+C:\Users\Sony\Documents\Projects\repo\Examples\Example22\bin\Debug\net6.0\Example22.pdb
+C:\Users\Sony\Documents\Projects\repo\Examples\Example22\obj\Debug\net6.0\Example22.dll
+C:\Users\Sony\Documents\Projects\repo\Examples\Example22\obj\Debug\net6.0\refint\Example22.dll
+C:\Users\Sony\Documents\Projects\repo\Examples\Example22\obj\Debug\net6.0\Example22.pdb
+C:\Users\Sony\Documents\Projects\repo\Examples\Example22\obj\Debug\net6.0\Example22.genruntimeconfig.cache
+C:\Users\Sony\Documents\Projects\repo\Examples\Example22\obj\Debug\net6.0\ref\Example22.dll
