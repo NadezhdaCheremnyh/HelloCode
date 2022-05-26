@@ -1,0 +1,15 @@
+C:\Users\Sony\Documents\Projects\repo\Examples\Example24\bin\Debug\net6.0\Example24.exe
+C:\Users\Sony\Documents\Projects\repo\Examples\Example24\bin\Debug\net6.0\Example24.deps.json
+C:\Users\Sony\Documents\Projects\repo\Examples\Example24\bin\Debug\net6.0\Example24.runtimeconfig.json
+C:\Users\Sony\Documents\Projects\repo\Examples\Example24\bin\Debug\net6.0\Example24.dll
+C:\Users\Sony\Documents\Projects\repo\Examples\Example24\bin\Debug\net6.0\Example24.pdb
+C:\Users\Sony\Documents\Projects\repo\Examples\Example24\obj\Debug\net6.0\Example24.csproj.AssemblyReference.cache
+C:\Users\Sony\Documents\Projects\repo\Examples\Example24\obj\Debug\net6.0\Example24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sony\Documents\Projects\repo\Examples\Example24\obj\Debug\net6.0\Example24.AssemblyInfoInputs.cache
+C:\Users\Sony\Documents\Projects\repo\Examples\Example24\obj\Debug\net6.0\Example24.AssemblyInfo.cs
+C:\Users\Sony\Documents\Projects\repo\Examples\Example24\obj\Debug\net6.0\Example24.csproj.CoreCompileInputs.cache
+C:\Users\Sony\Documents\Projects\repo\Examples\Example24\obj\Debug\net6.0\Example24.dll
+C:\Users\Sony\Documents\Projects\repo\Examples\Example24\obj\Debug\net6.0\refint\Example24.dll
+C:\Users\Sony\Documents\Projects\repo\Examples\Example24\obj\Debug\net6.0\Example24.pdb
+C:\Users\Sony\Documents\Projects\repo\Examples\Example24\obj\Debug\net6.0\Example24.genruntimeconfig.cache
+C:\Users\Sony\Documents\Projects\repo\Examples\Example24\obj\Debug\net6.0\ref\Example24.dll
